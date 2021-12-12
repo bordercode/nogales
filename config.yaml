@@ -54,8 +54,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com)
-      & Developed by [Gethugothemes](https://gethugothemes.com)
+    copyright: Research conducted by [José Luis Manzanares Rivera](https://joseluismanzanaresrivera.github.io/profile/index.html) Copyright &copy; 2021 Web theme designed by [Themefisher](https://themefisher.com)
     home: Home
     languageCode: en-us
     languageName: En
