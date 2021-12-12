@@ -61,7 +61,7 @@ Languages:
     languageName: En
     menu:
       main:
-        - name: about
+        - name: expo
           url: '#Expo'
           weight: 1
         - name: services
