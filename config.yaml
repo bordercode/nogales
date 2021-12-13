@@ -1,5 +1,5 @@
 baseURL: https://themennonitehistoryproject.netlify.app
-title: ok
+title: MHP
 theme: meghna-hugo
 paginate: '6'
 summaryLength: '15'
