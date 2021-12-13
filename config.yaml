@@ -1,5 +1,5 @@
-baseURL: https://examplesite.com
-title: Meghna
+baseURL: https://themennonitehistoryproject.netlify.app
+title: ok
 theme: meghna-hugo
 paginate: '6'
 summaryLength: '15'
