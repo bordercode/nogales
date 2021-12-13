@@ -75,8 +75,8 @@ Languages:
         - name: pricing
           url: '#pricing'
           weight: 5
-        - name: blog
-          url: '#blog'
+        - name: Chapters
+          url: '#Chapters'
           weight: 6
         - name: contact
           url: '#contact'
