@@ -4,7 +4,7 @@ date: "2021-12-14T12:52:36+06:00"
 description: This is meta description
 image: images/blog/blog-post-3.jpg
 image_webp: images/blog/blog-post-3.webp
-title: Simple Blog Post
+title: Introduction. Environment as Migration determinant 
 ---
 
 The Search for New Agricultural Lands as a Determinant for International Migration:
