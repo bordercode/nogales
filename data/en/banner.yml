@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/valle_el4.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "In seach for land and water: An inquiry into the causes of the Mennonite diaspora in Latin America."
-  content : "Bienvenidos"
+  title : "In seach for land and water."
+  content : "An inquiry into the causes of the Mennonite diaspora in Latin America:The Chihuahua-Bolivia connection"
   button:
     enable : true
-    label : "Background"
+    label : "Be my guest"
     link : "#services"
