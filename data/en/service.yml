@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : The Mennonite way.
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Environmental driven planned group migration. 
+      content : Environmental driven planned group migration.
       
     # service item loop
     - name : Gnadenbriefe

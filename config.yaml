@@ -60,10 +60,10 @@ Languages:
     languageName: En
     menu:
       main:
-        - name: expo
-          url: '#Expo'
+        - name: Home
+          url: '#about'
           weight: 1
-        - name: services
+        - name: Structure
           url: '#services'
           weight: 2
         - name: portfolio
