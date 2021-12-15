@@ -3,7 +3,7 @@
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: View All Chapters
 - id: share
   translation: Share
 - id: aboutAuthor
@@ -15,7 +15,7 @@
 - id: about
   translation: About Us
 - id: services
-  translation: Service
+  translation: Research
 - id: portfolio
   translation: Portfolio
 - id: team
@@ -23,7 +23,7 @@
 - id: pricing
   translation: Pricing
 - id: blog
-  translation: Blog
+  translation: Chapters
 - id: contact
   translation: Contact
 - id: themefisher
