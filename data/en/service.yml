@@ -4,31 +4,31 @@ service:
   title : Presentation structure
   service_item :
     # service item loop
-    - name : Traditional arguments vs. Environmental connection
+    - name : The Mennonite way.
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : The Mennonite way. Environmental driven planned group migration. 
+      content : Environmental driven planned group migration. 
       
     # service item loop
-    - name : Historical evidence
+    - name : Gnadenbriefe
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Who are the mennonites anyway? The country within a country argument.
+      content : Who are the mennonites anyway? Historical evidence from the country within a country argument.
       
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : The four stage Mennonite migration model.
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Between religion and economic incentives. 
       
     # service item loop
-    - name : Graphic Design
+    - name : Water &amp; arable Land. The scarcity fact
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : A sine qua non condition for the creation of new rural mennonite communities.
       
     # service item loop
-    - name : Apps Development
+    - name : The Auswanderung. 
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content :  Environmental causes of migration and local impacts  
       
     # service item loop
-    - name : Networking
+    - name : Bolivia the poor but rich country.
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content :Tracing the path south. 
