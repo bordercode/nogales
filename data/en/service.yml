@@ -31,4 +31,4 @@ service:
     # service item loop
     - name : Bolivia the poor but rich country.
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content :Tracing the path south. 
+      content : Tracing the path south. 
