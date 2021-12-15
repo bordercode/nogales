@@ -8,5 +8,5 @@ banner:
   content : "An inquiry into the causes of the Mennonite diaspora in Latin America:The Chihuahua-Bolivia connection"
   button:
     enable : true
-    label : "Be my guest"
+    label : "Start"
     link : "#services"
