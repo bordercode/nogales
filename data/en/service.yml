@@ -9,9 +9,9 @@ service:
       content : The Mennonite way. Environmental driven planned group migration. 
       
     # service item loop
-    - name : Responsive Design
+    - name : Historical evidence
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Who are the mennonites anyway? The country within a country argument.
       
     # service item loop
     - name : Media &amp; Advertisement
