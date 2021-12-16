@@ -9,17 +9,17 @@ feature:
       # feature item loop
     - title : The Winnipeg Evening Tribune 1918
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : 
       
       # feature item loop
     - title : Manitoba Free Press 1920
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      icon : ti-file # themify icon pack : https://themify.me/themify-icons
+      content : 
 
       # feature item loop
     - title : Excélsior 1925
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+      content : 
       
       # feature item loop
     - title : Bases de datos
