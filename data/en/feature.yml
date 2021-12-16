@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
+  image : images/about/menno_fam.jpg
+  image_webp : images/about/menno_fam.webp
+  title : Main data sorces.
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : The Winnipeg Evening Tribune 1918
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Easy Customization
+    - title : Manitoba Free Press 1920
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Excélsior 1925
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Easy Customization
+    - title : Bases de datos
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Servicio de Información Agroalimentaria y Pesquera (SIAP), Registro Público de derechos de Agua (REPDA), Instituto Nacional de la Reforma Agraria. Bolivia(INRA).
