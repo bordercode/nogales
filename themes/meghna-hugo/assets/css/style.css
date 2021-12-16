@@ -346,7 +346,7 @@ a:hover {
 
 .header-bradcrumb a,
 .header-bradcrumb .active {
-  color: #8abf0d;
+  color: #cfcfcf;
   font-weight: 200;
   font-family: "Quattrocento Sans", sans-serif;
 }
@@ -371,7 +371,7 @@ a:hover {
 }
 
 .mfp-with-zoom.mfp-ready.mfp-bg {
-  opacity: 0.8;
+  opacity: 0.1;
 }
 
 .mfp-with-zoom.mfp-removing .mfp-container,
