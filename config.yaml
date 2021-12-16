@@ -60,7 +60,7 @@ Languages:
     languageName: En
     menu:
       main:
-        - name: Home
+        - name: Methods
           url: '#about'
           weight: 1
         - name: Structure
