@@ -149,8 +149,8 @@ a:hover {
 }
 
 .sub-title>h3 {
-  border-left: 3px solid #ddd;
-  border-right: 3px solid #ddd;
+  border-left: 3px solid #7eeced;
+  border-right: 3px solid #7eeced;
   display: inline-block;
   padding: 5px 25px;
   text-transform: uppercase;
