@@ -78,7 +78,7 @@ Languages:
         - name: Chapters
           url: '#blog'
           weight: 6
-        - name: contact
+        - name: Let's collaborate
           url: '#contact'
           weight: 7
         - name: themefisher
