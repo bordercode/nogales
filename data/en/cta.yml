@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "I do not know that any writer has supposed that on this earth man will ultimately be able to live without food."
+  title : "I do not know that any writer has supposed that on this earth, man will ultimately be able to live without food."
   content : "Thomas Malthus, 1798"
   button:
-    enable : true
+    enable : []
     label : "Start a project with us"
     link : "#contact"
