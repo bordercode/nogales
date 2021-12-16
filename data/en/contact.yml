@@ -2,8 +2,8 @@
 contact:
   enable : true
   title : Let's collaborate
-  subtitle : Contact Details
-  content : if you are interested in Mennonite history and enjoy have a passion for research, we would love to hear from you. Don't hesitate 
+  subtitle : Building networks to advance knowledge
+  content : If you are interested in Mennonite history and have a passion for research, we would love to hear from you. Don't hesitate to contact us!
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
@@ -13,7 +13,7 @@ contact:
       info : "Phone: +52 (631) 125 09 29"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +52 (631) 31 9 33 01"
+      info : "Office: +52 (631) 31 9 33 01"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: jlmanzanares@colef.mx"
