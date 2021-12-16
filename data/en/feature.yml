@@ -3,8 +3,8 @@ feature:
   enable : true
   image : images/about/menno_fam.jpg
   image_webp : images/about/menno_fam.webp
-  title : Main data sorces.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Main data sources and theoretical perspective.
+  content : "A key section of the paper follows a spatial approach to discuss the geographic distribution of the Mennonite colonies in Chihuahua, building on insights from access theory associating the intensive usage of underground water resources to migration; the main information source is official geographically referenced data on wells drilled and underground water extraction volumes"
   feature_item : 
       # feature item loop
     - title : The Winnipeg Evening Tribune 1918
