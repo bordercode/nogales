@@ -7,10 +7,10 @@ about:
     title : Hemerographic reseach
     content : We conduct a detailed literature review including historic hemerographic reseach.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
     title : Data collection and analysis.
     content : The study relied on R Studio, ArcGis and QGis to acomplish data wrangling.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-gallery # themify icon pack : https://themify.me/themify-icons
     title : Geo spatial approach
     content : We combined an historical perspective and current data analysis with a geospatial approach to provide an indeep understanding.
