@@ -57,7 +57,7 @@ pre {
 }
 
 hr {
-  border-top: 1px solid rgba(10, 10, 10, .1);
+  border-top: 1px solid rgba(255, 255, 255, .1);
 }
 
 figure {
@@ -99,7 +99,7 @@ a:hover {
 
 .btn {
   background-color: transparent;
-  color: #fff;
+  color: ;
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
