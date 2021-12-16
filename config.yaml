@@ -4,7 +4,7 @@ theme: meghna-hugo
 paginate: '6'
 summaryLength: '15'
 disqusShortname: ''
-disableLanguages: True
+disableLanguages: []
 params:
   author: Themefisher
   cookies:
