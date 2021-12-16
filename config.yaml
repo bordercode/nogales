@@ -81,8 +81,8 @@ Languages:
         - name: Let's collaborate
           url: '#contact'
           weight: 7
-        - name: themefisher
-          url: https://themefisher.com/
+        - name: Other studies by JL 
+          url: https://deuma2021.netlify.app/intro/
           weight: 8
     weight: 1
   fr:
