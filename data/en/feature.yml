@@ -23,5 +23,5 @@ feature:
       
       # feature item loop
     - title : Bases de datos
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon : ti-save # themify icon pack : https://themify.me/themify-icons
       content : Servicio de Información Agroalimentaria y Pesquera (SIAP), Registro Público de derechos de Agua (REPDA), Instituto Nacional de la Reforma Agraria. Bolivia(INRA).
