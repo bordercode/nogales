@@ -3,7 +3,7 @@ about:
   enable : true
   title : Methods
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-files # themify icon pack : https://themify.me/themify-icons
     title : Hemerographic reseach
     content : We conduct a detailed literature review including historic hemerographic reseach.
 
