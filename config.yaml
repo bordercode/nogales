@@ -81,7 +81,7 @@ Languages:
         - name: Let's collaborate
           url: '#contact'
           weight: 7
-        - name: Other studies by JL 
+        - name: Environmental research 
           url: https://deuma2021.netlify.app/intro/
           weight: 8
     weight: 1
