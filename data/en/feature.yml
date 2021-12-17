@@ -8,7 +8,7 @@ feature:
   feature_item : 
       # feature item loop
     - title : The Winnipeg Evening Tribune 1918
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
       content : Documents public resentment against the privileged status of the Mennonites. It was an increasing issue among Canadians in the years prior to WWI.
       
       # feature item loop
