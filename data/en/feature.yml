@@ -4,22 +4,22 @@ feature:
   image : images/about/menno_fam.jpg
   image_webp : images/about/menno_fam.webp
   title : Main data sources and theoretical perspective.
-  content : "A key section of the paper follows a spatial approach to discuss the geographic distribution of the Mennonite colonies in Chihuahua, building on insights from access theory associating the intensive usage of underground water resources to migration; the main information source is official geographically referenced data on wells drilled and underground water extraction volumes"
+  content : "A main contribution of the paper follows a spatial approach to discuss the geographic distribution of the Mennonite colonies in Chihuahua, building on insights from access theory associating the intensive usage of underground water resources to migration; the main information source is official geographically referenced data on wells drilled and underground water extraction volumes"
   feature_item : 
       # feature item loop
     - title : The Winnipeg Evening Tribune 1918
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : 
+      content : Documents public resentment against the privileged status of the Mennonites. It was an increasing issue among Canadians in the years prior to WWI.
       
       # feature item loop
     - title : Manitoba Free Press 1920
       icon : ti-file # themify icon pack : https://themify.me/themify-icons
-      content : 
+      content : It provides a clear picture to understand who the mennonites are.
 
       # feature item loop
     - title : Excélsior 1925
       icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
-      content : 
+      content : Documents how local residents perceived mennonite´s migration and Highlights integration issues.
       
       # feature item loop
     - title : Bases de datos
