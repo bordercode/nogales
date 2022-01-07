@@ -3,7 +3,7 @@ skill:
   enable : true
   title : 2022 An important milestone for the Mennonite community in Mexico. 
   subtitle : March 2022 marks the 100th anniversary of the first Mennonite colony arrival in Mexico.
-  content : During this period, the Mennonite land holdings in the Chihuahua state only, grew, from 62,728 hectares in 1922 to 625,479 has. A trend that represents a 10-fold increase from the original land area holdings in the northern border state.
+  content : During this period, the Mennonite land holdings in the Chihuahua state, grew, from 62,728 hectares in 1922 to 625,479.  A trend that represents a 10 fold increase from their original land area holdings in that partucular northern border state.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
