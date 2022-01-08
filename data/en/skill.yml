@@ -7,11 +7,11 @@ skill:
   image : images/about/Colonias_grow.webp
   skill_item :
     # skill item loop
-    - name :  75 Communities in Chihuahua
+    - name : Communities in Chihuahua. 75
       percent : 90%
       
     # skill item loop
-    - name :  2 Settlements in Zacatecas. La Honda y La Batea
+    - name :  Settlements in Zacatecas. La Honda y La Batea
       percent : 80%
       
     # skill item loop
