@@ -18,9 +18,9 @@ skill:
     - name :  Nuevo Ideal, Durango
       percent : 70%
       
-    - name :  Recent Development in Campeche Hopelchén area.
+    - name :  Recent Development in Campeche, Hopelchén area.
       percent : 25%
       
     # skill item loop
-    - name :  Small Communities in Coahuila, Tamps. y San Luis Potosí
+    - name :  Small Communities in Coahuila, Tamaulipas. y San Luis Potosí
       percent : 15%
