@@ -12,11 +12,11 @@ portfolio:
       link : "https://themefisher.com"
       
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Cotton
+      image : images/portfolio/cotton2.jpg
+      image_webp : images/portfolio/cotton2.webp
+      categories : ["Cotton"]
+      content : Cash crops such as cotton are a leading Mennonite product from the northern desert plains.
       link : ""
       
     # portfolio item loop
