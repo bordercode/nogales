@@ -23,7 +23,7 @@ portfolio:
     - name : Cotton harvest
       image : images/portfolio/cotton3.jpg
       image_webp : images/portfolio/cotton3.webp
-      categories : ["cotton", "Corn"]
+      categories : []
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
