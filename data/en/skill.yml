@@ -7,18 +7,18 @@ skill:
   image : images/about/Colonias_grow.webp
   skill_item :
     # skill item loop
-    - name : Communities in Chihuahua. 75
+    - name : Communities in Chihuahua. 107
       percent : 90%
       
     # skill item loop
-    - name :  Settlements in Zacatecas. La Honda y La Batea
+    - name :  Durango settlements in Nuevo ideal.Start 1921-1922
       percent : 80%
       
     # skill item loop
-    - name :  Nuevo Ideal, Durango
+    - name :  Zacatecas. La Honda y La Batea. Migration starts 1964.
       percent : 70%
       
-    - name :  Recent Development in Campeche, Hopelchén area.
+    - name :  Campeche Settlements. 17 Start in 1983.
       percent : 25%
       
     # skill item loop
