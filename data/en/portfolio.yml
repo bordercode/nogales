@@ -20,9 +20,9 @@ portfolio:
       link : ""
       
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
+    - name : Cotton harvest
+      image : images/portfolio/cotton3.jpg
+      image_webp : images/portfolio/cotton3.webp
       categories : ["cotton", "Corn"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
