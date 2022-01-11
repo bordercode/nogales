@@ -16,7 +16,7 @@ portfolio:
       image : images/portfolio/cotton2.jpg
       image_webp : images/portfolio/cotton2.webp
       categories : ["Cotton"]
-      content : Cash crops such as cotton are a leading Mennonite product from the northern desert plains.
+      content : Cash crops such as cotton are a leading Mennonite product grown at the northern desert plains.
       link : ""
       
     # portfolio item loop
@@ -24,15 +24,16 @@ portfolio:
       image : images/portfolio/cotton3.jpg
       image_webp : images/portfolio/cotton3.webp
       categories : []
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Oasis and El Valle are two leading regions for cotton cultivation
       link : "#"
       
     # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Sorghum
+      image : images/portfolio/sorgo1.jpg
+      image_webp : images/portfolio/sorgo1.webp
+      categories : []
+      content : Sorghum, an importan ceral  is grown at several Mannonite fields such as El valle, a settlemen established in 1993.
+      
       link : "#"
       
     # portfolio item loop
