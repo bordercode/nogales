@@ -19,7 +19,7 @@ service:
       content : Between religion and economic incentives. 
       
     # service item loop
-    - name : Water &amp; arable Land. The scarcity fact
+    - name :  Arable land &amp; Water. The scarcity fact
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       content : A sine qua non condition for the creation of new rural mennonite communities.
       
