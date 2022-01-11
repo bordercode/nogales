@@ -1,14 +1,14 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Main Crops
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+    - name : Corn
+      image : images/portfolio/p1.jpg
+      image_webp : images/portfolio/p1.webp
       categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Corn Production. A main source of income for the Mennonite colonies in Chihuahua.
       link : "https://themefisher.com"
       
     # portfolio item loop
