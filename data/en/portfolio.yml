@@ -24,7 +24,7 @@ portfolio:
       image : images/portfolio/cotton3.jpg
       image_webp : images/portfolio/cotton3.webp
       categories : []
-      content : Oasis and El Valle are two leading regions for cotton cultivation
+      content : Oasis, Los cienes and Nueva Holanda, important cotton producers.
       link : "#"
       
     # portfolio item loop
@@ -37,11 +37,11 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Chiles
+      image : images/portfolio/chilaca.jpg
+      image_webp : images/portfolio/chilaca.webp
+      categories : []
+      content : Diversification of crops to meet local market needs. 
       link : "#"
       
     # portfolio item loop
