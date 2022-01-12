@@ -31,7 +31,7 @@ portfolio:
     - name : Sorghum
       image : images/portfolio/sorgo1.jpg
       image_webp : images/portfolio/sorgo1.webp
-      categories : []
+      categories : ["Sorghum"]
       content : Is grown at several Mannonite fields such as El valle, a community established in 1993.
       
       link : "#"
