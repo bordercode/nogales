@@ -66,24 +66,21 @@ Languages:
         - name: Structure
           url: '#services'
           weight: 2
-        - name: portfolio
+        - name: Main crops
           url: '#portfolio'
           weight: 3
-        - name: team
+        - name: The Church
           url: '#team'
           weight: 4
-        - name: pricing
-          url: '#pricing'
-          weight: 5
         - name: Chapters
           url: '#blog'
-          weight: 6
+          weight: 5
         - name: Let's collaborate
           url: '#contact'
-          weight: 7
+          weight: 6
         - name: Other studies 
           url: https://deuma2021.netlify.app/intro/
-          weight: 8
+          weight: 7
     weight: 1
   fr:
     contentDir: content/french
