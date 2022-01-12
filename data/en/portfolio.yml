@@ -8,7 +8,7 @@ portfolio:
       image : images/portfolio/p1.jpg
       image_webp : images/portfolio/p1.webp
       categories : ["Corn"]
-      content : Corn Production. A main source of income for the Mennonite colonies in Chihuahua.
+      content : A main source of food for the mexican population is provided  by the Mennonite colonies in Chihuahua.
       link : "https://themefisher.com"
       
     # portfolio item loop
