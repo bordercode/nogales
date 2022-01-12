@@ -29,6 +29,6 @@ service:
       content :  Environmental fingerprint of migration and local impacts  
       
     # service item loop
-    - name : Bolivia the poor but rich country.
+    - name : Bolivia, the poor but rich country.
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Tracing the path south. 
