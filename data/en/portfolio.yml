@@ -40,7 +40,7 @@ portfolio:
     - name : Chiles
       image : images/portfolio/chilaca.jpg
       image_webp : images/portfolio/chilaca.webp
-      categories : []
+      categories : ["Chile"]
       content : Diversification of crops to meet local market needs. 
       link : "#"
       
