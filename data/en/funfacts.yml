@@ -5,21 +5,21 @@ funfacts:
   bg_image_webp : "images/backgrounds/background.webp"
   counter_item:
     # counter item loop
-    - title : "Happy Clients"
-      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "320"
+    - title : "Mennonite Migration"
+      icon : "ti-move" # themify icon pack : https://themify.me/themify-icons
+      count : "More than 400 years"
     
     # counter item loop
-    - title : "Projects completed"
-      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+    - title : "Continent wide presence"
+      icon : "ti-flag-alt" # themify icon pack : https://themify.me/themify-icons
+      count : "8 Contries"
     
     # counter item loop
-    - title : "Positive feedback"
+    - title : "Land Holdings in Chihuahua"
       icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
+      count : "+625,000 ha"
     
     # counter item loop
-    - title : "Cups of Coffee"
+    - title : "Year of Migration to Bolivia"
       icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "250"
+      count : "1964"
