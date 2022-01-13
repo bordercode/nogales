@@ -7,17 +7,17 @@ funfacts:
     # counter item loop
     - title : "Mennonite Migration"
       icon : "ti-move" # themify icon pack : https://themify.me/themify-icons
-      count : "More than 400 years"
+      count : "400"
     
     # counter item loop
     - title : "Continent wide presence"
       icon : "ti-flag-alt" # themify icon pack : https://themify.me/themify-icons
-      count : "8 Contries"
+      count : "8"
     
     # counter item loop
     - title : "Land Holdings in Chihuahua"
       icon : "ti-stats-up" # themify icon pack : https://themify.me/themify-icons
-      count : "From 91,000 ha to +625,000 ha"
+      count : "91,000 625,000"
     
     # counter item loop
     - title : "Year of Migration to Bolivia"
