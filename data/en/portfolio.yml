@@ -79,8 +79,8 @@ portfolio:
 
     # portfolio item loop
     - name : Cebolla
-      image : images/portfolio/cebolla2.jpg
-      image_webp : images/portfolio/cebolla2.webp
+      image : images/portfolio/cebolla.jpg
+      image_webp : images/portfolio/cebolla.webp
       categories : ["Chile & Cebolla"]
       content : Supplying regional market demand, mennonites farmers go beyond cereals and grains.
       link : "#"      
