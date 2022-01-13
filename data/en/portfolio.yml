@@ -53,11 +53,11 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Sorghum
+      image : images/portfolio/sorgo2.jpg
+      image_webp : images/portfolio/sorgo2.webp
+      categories : ["Sorhum"]
+      content : 
       link : "#"
       
     # portfolio item loop
