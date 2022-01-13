@@ -23,7 +23,7 @@ portfolio:
     - name : Cotton harvest
       image : images/portfolio/cotton3.jpg
       image_webp : images/portfolio/cotton3.webp
-      categories : []
+      categories : ["Cotton"]
       content : Oasis, Los cienes and Nueva Holanda, important cotton producers.
       link : "#"
       
@@ -64,14 +64,14 @@ portfolio:
     - name : Stationary Design
       image : images/portfolio/portfolio-8.jpg
       image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["Cotton"]
+      content : 
       link : "#"
       
     # portfolio item loop
     - name : Tag Design
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
+      categories : []
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
