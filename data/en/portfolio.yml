@@ -48,7 +48,7 @@ portfolio:
     - name : Corn Harvest
       image : images/portfolio/combining-corn.jpg
       image_webp : images/portfolio/combining-corn.webp
-      categories : []
+      categories : ["Corn"]
       content : .
       link : "#"
       
