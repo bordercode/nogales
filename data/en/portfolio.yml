@@ -45,11 +45,11 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Corn Harvest
+      image : images/portfolio/combining-corn.jpg
+      image_webp : images/portfolio/combining-corn.webp
+      categories : ["Corn"]
+      content : .
       link : "#"
       
     # portfolio item loop
