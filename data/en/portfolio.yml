@@ -81,7 +81,7 @@ portfolio:
     - name : Cebolla
       image : images/portfolio/cebolla2.jpg
       image_webp : images/portfolio/cebolla2.webp
-      categories : ["Chile & Cebollas"]
+      categories : ["Chile & Cebolla"]
       content : Supplying regional market demand, mennonites farmers go beyond cereals and grains.
       link : "#"      
 
