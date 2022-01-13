@@ -10,6 +10,14 @@ portfolio:
       categories : ["Corn"]
       content : A main source of food for the mexican population is provided  by the Mennonite colonies in Chihuahua.
       link : "https://themefisher.com"
+
+    # portfolio item loop
+    - name : Corn Harvest
+      image : images/portfolio/combining-corn.jpg
+      image_webp : images/portfolio/combining-corn.webp
+      categories : ["Corn"]
+      content : .
+      link : "#"
       
     # portfolio item loop
     - name : Cotton
@@ -44,13 +52,7 @@ portfolio:
       content : Diversification of crops to meet local market needs. 
       link : "#"
       
-    # portfolio item loop
-    - name : Corn Harvest
-      image : images/portfolio/combining-corn.jpg
-      image_webp : images/portfolio/combining-corn.webp
-      categories : ["Corn"]
-      content : .
-      link : "#"
+
       
     # portfolio item loop
     - name : Sorghum
