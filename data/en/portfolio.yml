@@ -20,6 +20,14 @@ portfolio:
       link : "#"
       
     # portfolio item loop
+    - name : Corn
+      image : images/portfolio/pioneer_Moment.jpg
+      image_webp : images/portfolio/pioneer_Moment.webp
+      categories : ["Corn"]
+      content : Highly technified production.
+      link : "#"
+      
+    # portfolio item loop
     - name : Cotton
       image : images/portfolio/cotton2.jpg
       image_webp : images/portfolio/cotton2.webp
@@ -36,6 +44,14 @@ portfolio:
       link : "#"
       
     # portfolio item loop
+    - name : Cotton 
+      image : images/portfolio/cotton1.jpg
+      image_webp : images/portfolio/cotton1.webp
+      categories : ["Cotton"]
+      content : Over 93,000 ha. are cultivated in the Northern Chihuahua desert by Mennonite farmers.
+      link : "#"      
+      
+    # portfolio item loop
     - name : Sorghum
       image : images/portfolio/sorgo1.jpg
       image_webp : images/portfolio/sorgo1.webp
@@ -43,7 +59,15 @@ portfolio:
       content : Is grown at several Mannonite fields such as El valle, a community established in 1993.
       
       link : "#"
-      
+  
+    # portfolio item loop
+    - name : Sorghum
+      image : images/portfolio/sorgo3.jpg
+      image_webp : images/portfolio/sorgo3.webp
+      categories : ["Sorghum"]
+      content : 
+      link : "#"
+
     # portfolio item loop
     - name : Chiles
       image : images/portfolio/chilaca.jpg
@@ -54,26 +78,7 @@ portfolio:
       
 
       
-    # portfolio item loop
-    - name : Sorghum
-      image : images/portfolio/sorgo3.jpg
-      image_webp : images/portfolio/sorgo3.webp
-      categories : ["Sorghum"]
-      content : 
-      link : "#"
+
       
-    # portfolio item loop
-    - name : Cotton 
-      image : images/portfolio/cotton1.jpg
-      image_webp : images/portfolio/cotton1.webp
-      categories : ["Cotton"]
-      content : Over 93,000 ha. are cultivated in the Northern Chihuahua desert by Mennonite farmers.
-      link : "#"
+
       
-    # portfolio item loop
-    - name : Corn
-      image : images/portfolio/pioneer_Moment.jpg
-      image_webp : images/portfolio/pioneer_Moment.webp
-      categories : ["Corn"]
-      content : Highly technified production.
-      link : "#"
