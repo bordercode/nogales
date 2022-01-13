@@ -8,7 +8,7 @@ portfolio:
       image : images/portfolio/p1.jpg
       image_webp : images/portfolio/p1.webp
       categories : ["Corn"]
-      content : A main source of food for the mexican population is provided  by the Mennonite colonies in Chihuahua.
+      content : A main source of food for the mexican population is provided  by Mennonite farmers.
       link : "https://themefisher.com"
 
     # portfolio item loop
@@ -16,7 +16,7 @@ portfolio:
       image : images/portfolio/combining-corn.jpg
       image_webp : images/portfolio/combining-corn.webp
       categories : ["Corn"]
-      content : .
+      content : Heavy investments are made to achieve high yields every season.
       link : "#"
       
     # portfolio item loop
@@ -32,7 +32,7 @@ portfolio:
       image : images/portfolio/cotton2.jpg
       image_webp : images/portfolio/cotton2.webp
       categories : ["Cotton"]
-      content : Cash crops such as cotton are a leading Mennonite product grown at the northern desert plains.
+      content : Represents a major income source for the Northern desert plains Mennonite farmers.
       link : ""
       
     # portfolio item loop
@@ -40,7 +40,7 @@ portfolio:
       image : images/portfolio/cotton3.jpg
       image_webp : images/portfolio/cotton3.webp
       categories : ["Cotton"]
-      content : Oasis, Los cienes and Nueva Holanda, important cotton producers.
+      content : Oasis, Los cienes and Nueva Holanda, importat cotton production areas.
       link : "#"
       
     # portfolio item loop
@@ -48,7 +48,7 @@ portfolio:
       image : images/portfolio/cotton1.jpg
       image_webp : images/portfolio/cotton1.webp
       categories : ["Cotton"]
-      content : Over 93,000 ha. are cultivated in the Northern Chihuahua desert by Mennonite farmers.
+      content : Mennonite farmers cultivate over 93,000 ha. in the Northern Chihuahua desert.
       link : "#"      
       
     # portfolio item loop
