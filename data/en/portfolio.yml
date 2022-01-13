@@ -69,9 +69,9 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : []
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Corn
+      image : images/portfolio/pioneer_Moment.jpg
+      image_webp : images/portfolio/pioneer_Moment.webp
+      categories : ["Corn"]
+      content : Highly technified production.
       link : "#"
