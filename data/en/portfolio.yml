@@ -72,12 +72,18 @@ portfolio:
     - name : Chiles
       image : images/portfolio/chilaca.jpg
       image_webp : images/portfolio/chilaca.webp
-      categories : ["Chile"]
+      categories : ["Chile & Cebolla"]
       content : Diversification of crops to meet local market needs. 
       link : "#"
       
 
-      
+    # portfolio item loop
+    - name : Cebolla
+      image : images/portfolio/cebolla2.jpg
+      image_webp : images/portfolio/cebolla2.webp
+      categories : ["Chile & Cebollas"]
+      content : Supplying regional market demand, mennonites farmers go beyond cereals and grains.
+      link : "#"      
 
       
 
