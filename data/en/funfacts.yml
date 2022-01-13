@@ -16,10 +16,10 @@ funfacts:
     
     # counter item loop
     - title : "Land Holdings in Chihuahua"
-      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "+625,000 ha"
+      icon : "ti-stats-up" # themify icon pack : https://themify.me/themify-icons
+      count : "From 91,000 ha to +625,000 ha"
     
     # counter item loop
     - title : "Year of Migration to Bolivia"
-      icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-map-alt" # themify icon pack : https://themify.me/themify-icons
       count : "1964"
