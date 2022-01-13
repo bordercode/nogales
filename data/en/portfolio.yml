@@ -61,11 +61,11 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Stationary Design
+    - name : Cotton 
       image : images/portfolio/cotton1.jpg
       image_webp : images/portfolio/cotton1.webp
       categories : ["Cotton"]
-      content : Over 93,000 hectares are cultivated in the Northern Chihuahua desert by Mennonite farmers.
+      content : Over 93,000 ha. are cultivated in the Northern Chihuahua desert by Mennonite farmers.
       link : "#"
       
     # portfolio item loop
