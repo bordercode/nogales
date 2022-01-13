@@ -17,7 +17,7 @@ funfacts:
     # counter item loop
     - title : "Land Holdings in Chihuahua"
       icon : "ti-stats-up" # themify icon pack : https://themify.me/themify-icons
-      count : "91,000 625,000"
+      count : "91000 625000"
     
     # counter item loop
     - title : "Year of Migration to Bolivia"
