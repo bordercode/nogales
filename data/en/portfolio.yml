@@ -54,8 +54,8 @@ portfolio:
       
     # portfolio item loop
     - name : Sorghum
-      image : images/portfolio/sorgo2.jpg
-      image_webp : images/portfolio/sorgo2.webp
+      image : images/portfolio/sorgo3.jpg
+      image_webp : images/portfolio/sorgo3.webp
       categories : ["Sorghum"]
       content : 
       link : "#"
