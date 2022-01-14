@@ -12,7 +12,7 @@ team:
       
         
     # team member loop
-    - name : Klein Gemeinde
+    - name : Kleine Gemeinde
       image_webp : images/team/klein.webp
       image : images/team/klein.jpg
       designation : Less restrictions regarding technology including means of production.
