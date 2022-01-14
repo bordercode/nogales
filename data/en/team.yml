@@ -12,11 +12,11 @@ team:
       
         
     # team member loop
-    - name : Frank Miller
+    - name : Klein Gemeinde
       image_webp : images/team/klein.webp
       image : images/team/klein.jpg
-      designation : Manager
-      content : Less restrictions regarding technology including means of production.
+      designation : Less restrictions regarding technology including means of production.
+      content : Progressive branch.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
