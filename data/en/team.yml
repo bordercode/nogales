@@ -8,7 +8,7 @@ team:
       image_webp : images/team/alt1.webp
       image : images/team/alt1.jpg
       designation : Technology Restrictions 
-      content : Conservative branch 
+      content : Conservative branch located mainly in Swift Current and Manitoba colonies.
       
         
     # team member loop
@@ -20,21 +20,12 @@ team:
 
         
     # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
+    - name : Sommerfelder
+      image_webp : images/team/sommerfelder.webp
+      image : images/team/sommerfelder.jpg
+      designation : Isolation and solidarity
+      content : Conservative branch, mainly located in the Santa Clara Colony
+
     # team member loop
     - name : Mo. Kha. Alamgir
       image_webp : images/team/team-4.webp
