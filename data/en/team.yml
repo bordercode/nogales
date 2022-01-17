@@ -32,4 +32,8 @@ team:
       image : images/team/cmm.jpg
       designation : Evangelical Mennonite Conference
       content : Anabaptist movement, not bounded to ethnic members (low german or Plattdeutsch speaking mennonites).
-
+  social:
+    - icon: ti-youtube
+      link: 'https://www.youtube.com/user/colef'
+    - icon: ti-twitter-alt
+      link: 'https://twitter.com/JLManzanaresR'
