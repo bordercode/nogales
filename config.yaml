@@ -40,9 +40,9 @@ params:
     preloader: images/logo.png
   social:
     - icon: ti-youtube
-      link: '# https://www.youtube.com/user/colef'
+      link: 'https://www.youtube.com/user/colef'
     - icon: ti-twitter-alt
-      link: '# @JLManzanaresR'
+      link: '@JLManzanaresR'
 Languages:
   en:
     contentDir: content/english
