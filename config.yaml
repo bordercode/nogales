@@ -41,8 +41,7 @@ params:
   social:
     - icon: ti-youtube
       link: 'https://www.youtube.com/user/colef'
-    - icon: ti-twitter-alt
-      link: 'https://twitter.com/JLManzanaresR'
+
 Languages:
   en:
     contentDir: content/english
