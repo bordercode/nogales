@@ -7,16 +7,16 @@ contact:
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Nogales, Sonora, México"
+      info : "Tijuana, BC, México"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +52 (631) 125 09 29"
+      info : "Phone: +52 (631) 314 37 10"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Office: +52 (631) 31 9 33 01"
+      info : "Office: +52 (664) 631 63 00"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: jlmanzanares@colef.mx"
+      info : "Email: difusion@colef.mx"
 
 
   # Contact form

@@ -1,8 +1,8 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  bg_image : "images/backgrounds/valle_el3.jpg"
+  bg_image_webp : "images/backgrounds/valle_el3.webp"
   title : "I do not know that any writer has supposed that on this earth, man will ultimately be able to live without food."
   content : "Thomas Malthus, 1798"
   button:
