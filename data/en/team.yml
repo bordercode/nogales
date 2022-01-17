@@ -32,6 +32,4 @@ team:
       image : images/team/cmm.jpg
       designation : Evangelical Mennonite Conference
       content : Anabaptist movement, not bounded to ethnic members (low german or Plattdeutsch speaking mennonites).
-      social :
-        - icon : ti-info # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+
