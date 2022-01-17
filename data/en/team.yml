@@ -25,6 +25,11 @@ team:
       image : images/team/sommerfelder.jpg
       designation : Isolation and solidarity
       content : Conservative branch, mainly located in the Santa Clara Colony
+  social:
+    - icon: ti-youtube
+      link: 'https://www.youtube.com/user/colef'
+    - icon: ti-twitter-alt
+      link: 'https://twitter.com/JLManzanaresR'
 
     # team member loop
     - name : CMM & CME
