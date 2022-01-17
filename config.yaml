@@ -54,7 +54,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Research conducted by [José Luis Manzanares Rivera](https://joseluismanzanaresrivera.github.io/profile/index.html) Copyright &copy; 2021 Web theme designed by [Themefisher](https://themefisher.com)
+    copyright: Research conducted at [El Colegio de la Frontera Norte]( https://www.colef.mx/). Analysis and opinions expressed are the authors responsibility and does not necessarily reflect an institutional position on the matter. Copyright &copy; 2021 Web theme designed by [Themefisher](https://themefisher.com)
     home: Home
     languageCode: en-us
     languageName: En
