@@ -20,7 +20,7 @@ service:
       
     # service item loop
     - name :  Arable land &amp; Water. The scarcity fact
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      icon : ti-image # themify icon pack : https://themify.me/themify-icons
       content : A sine qua non condition for the creation of new rural mennonite communities.
       
     # service item loop
@@ -30,5 +30,5 @@ service:
       
     # service item loop
     - name : Bolivia, the poor but rich country.
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      icon : ti-target # themify icon pack : https://themify.me/themify-icons
       content : Tracing the path south. 
