@@ -1,8 +1,8 @@
 ################################# Testimonial #########################
 testimonial:
   enable : true
-  bg_image : images/backgrounds/honda_1.jpg
-  bg_image_webp : images/backgrounds/honda_1.webp
+  bg_image : images/backgrounds/cow_kids.jpg
+  bg_image_webp : images/backgrounds/cow_kids.webp
   testimonial_item :
     # testimonial item loop
     - name : Mennonite definition
