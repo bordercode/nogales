@@ -6,7 +6,7 @@
 <section id="testimonial" class="testimonial overly section bg-2"
 	style='background-image: url("{{ .bg_image_webp | absURL }}")'>
 	<!-- this image is for trigger this section fallback background image -->
-	<img src="{{ .bg_image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'">
+	<img src="{{ .bg_image_webp | absURL }}" style="display: content;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'">
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-12">
@@ -24,11 +24,11 @@
 						{{"<!-- client info -->" | safeHTML}}
 						<div class="client-info">
 							<div class="client-meta">
-								<h3>{{ .name }}</h3>
+								<h3 style="color:DarkTurquoise">{{ .name }}</h3>
 								<span>{{ .date }}</span>
 							</div>
 							<div class="client-comment">
-								<p>{{ .content | markdownify }}</p>
+								<p style="color:white">{{ .content | markdownify }}</p>
 							</div>
 						</div>
 					</div>
