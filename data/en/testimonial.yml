@@ -12,11 +12,15 @@ testimonial:
       content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
       
     # testimonial item loop
-    - name : Mark Dinn
+    - name : Mennonite Migration culture
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : A way of life rooted in the soil. Indeed, the Mennonite immigrants […] expressed an almost obsessive
+interest in farmland. As immigrants, they debated its quality, and as farmers,
+they tested its potential. As neighbors, they treasured land if it was contiguous
+to the land of friends and relatives; as parents, they schemed for ways of
+acquiring more land. (Loewen, 2001, p. 70). 
       
     # testimonial item loop
     - name : Lemos Kail
