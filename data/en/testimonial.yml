@@ -6,8 +6,8 @@ testimonial:
   testimonial_item :
     # testimonial item loop
     - name : Mennonites. A definition
-      image : images/client/ManitobaFreePress.jpg
-      image_webp : images/client/ManitobaFreePress.webp
+      image : images/client/meno.jpg
+      image_webp : images/client/meno.webp
       date : Jan 26, 2022
       content : We are a rural community; we live on the land and till the soil […] Our children are taught to live the rural life and our people from generation to generation continue to lead the simple life on the farm. (Manitoba Free Press, 1920, p. 19)
       
