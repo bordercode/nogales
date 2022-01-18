@@ -15,7 +15,7 @@ service:
       
     # service item loop
     - name : The four stage Mennonite migration model.
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      icon : ti-control-shuffle # themify icon pack : https://themify.me/themify-icons
       content : Between religion and economic incentives. 
       
     # service item loop
@@ -25,7 +25,7 @@ service:
       
     # service item loop
     - name : The Auswanderung. 
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      icon : ti-truck # themify icon pack : https://themify.me/themify-icons
       content :  Environmental fingerprint of migration and local impacts  
       
     # service item loop
