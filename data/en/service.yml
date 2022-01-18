@@ -10,7 +10,7 @@ service:
       
     # service item loop
     - name : Gnadenbriefe
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
       content : Who are the mennonites anyway? Historical evidence from the country within a country argument.
       
     # service item loop
@@ -30,5 +30,5 @@ service:
       
     # service item loop
     - name : Bolivia, the poor but rich country.
-      icon : ti-target # themify icon pack : https://themify.me/themify-icons
+      icon : ti-shine # themify icon pack : https://themify.me/themify-icons
       content : Tracing the path south. 
