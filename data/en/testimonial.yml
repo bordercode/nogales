@@ -5,7 +5,7 @@ testimonial:
   bg_image_webp : images/backgrounds/cow_kids.webp
   testimonial_item :
     # testimonial item loop
-    - name : Mennonites. A definition
+    - name : Mennonites in they own words.
       image : images/client/meno.jpg
       image_webp : images/client/meno.webp
       date : Jan 26, 2022
