@@ -8,7 +8,7 @@ testimonial:
     - name : Mennonites in they own words.
       image : images/client/meno.jpg
       image_webp : images/client/meno.webp
-      date : Jan 26, 2022
+      date : 
       content : We are a rural community; we live on the land and till the soil […] Our children are taught to live the rural life and our people from generation to generation continue to lead the simple life on the farm. (Manitoba Free Press, 1920, p. 19)
       
     # testimonial item loop
