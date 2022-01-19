@@ -36,7 +36,7 @@ params:
       - link: plugins/google-map/map.js
   post_share: yes
   preloader:
-    enable: no
+    enable: yes
     preloader: images/logo.png
   social:
     - icon: ti-youtube
