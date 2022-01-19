@@ -5,14 +5,14 @@ funfacts:
   bg_image_webp : "images/backgrounds/background.webp"
   counter_item:
     # counter item loop
-    - title : "Mennonite Migration"
+    - title : "Diaspora Years"
       icon : "ti-move" # themify icon pack : https://themify.me/themify-icons
       count : "400"
     
     # counter item loop
-    - title : "Continent wide presence"
+    - title : "Countries continent wide"
       icon : "ti-flag-alt" # themify icon pack : https://themify.me/themify-icons
-      count : "8"
+      count : "10"
     
     # counter item loop
     - title : "Land Holdings in Chihuahua"

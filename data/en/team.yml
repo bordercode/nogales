@@ -8,7 +8,7 @@ team:
       image_webp : images/team/alt1.webp
       image : images/team/alt1.jpg
       designation : Technology Restrictions 
-      content : Conservative branch located mainly in Swift Current and Manitoba colonies.
+      content : Conservative branch. Pioneer stage in the Mennonite migration model.
       
         
     # team member loop
@@ -24,12 +24,12 @@ team:
       image_webp : images/team/sommerfelder.webp
       image : images/team/sommerfelder.jpg
       designation : Isolation and solidarity
-      content : Conservative branch, mainly located in the Santa Clara Colony
+      content : Conservative branch, preserving Anabaptist core principles.
 
     # team member loop
     - name : CMM & CME
       image_webp : images/team/cmm.webp
       image : images/team/cmm.jpg
       designation : Evangelical Mennonite Conference
-      content : Anabaptist movement, not bounded to ethnic members (low german or Plattdeutsch speaking mennonites).
+      content : Not bounded to ethnic members (low german or Plattdeutsch speaking mennonites).
 

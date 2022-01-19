@@ -69,7 +69,9 @@ Languages:
         - name: Let's collaborate
           url: '#contact'
           weight: 6
-        - name: Other studies 
+        - name: Get full PDF 
           url: https://deuma2021.netlify.app/intro/
           weight: 7
-    
+        - name: Other studies 
+          url: https://deuma2021.netlify.app/intro/
+          weight: 8
