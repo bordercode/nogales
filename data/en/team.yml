@@ -15,8 +15,9 @@ team:
     - name : Kleine Gemeinde
       image_webp : images/team/klein.webp
       image : images/team/klein.jpg
-      designation : Less restrictions regarding technology including means of production.
-      content : Progressive branch.
+      designation : Progressive branch. Less restrictions regarding technology including means of production.
+      content : Less restrictions regarding technology including means of production.
+
 
         
     # team member loop
