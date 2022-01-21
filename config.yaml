@@ -60,7 +60,7 @@ Languages:
         - name: Main crops
           url: '#portfolio'
           weight: 3
-        - name: The Church
+        - name: Church Brethren
           url: '#team'
           weight: 4
         - name: Chapters
@@ -72,6 +72,6 @@ Languages:
         - name: Get full PDF 
           url: https://deuma2021.netlify.app/intro/
           weight: 7
-        - name: Other studies 
-          url: https://deuma2021.netlify.app/intro/
+        - name: Meet the author 
+          url: https://joseluismanzanaresrivera.github.io/profile/index.html
           weight: 8
