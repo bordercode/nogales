@@ -72,6 +72,6 @@ Languages:
         - name: Get full PDF 
           url: https://migracionesinternacionales.colef.mx/index.php/migracionesinternacionales/article/view/1920/1608
           weight: 7
-        - name: Author's profile 
+        - name: About 
           url: https://joseluismanzanaresrivera.github.io/profile/index.html
           weight: 8
