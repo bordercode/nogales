@@ -1,5 +1,5 @@
 ---
-email: email2@example.org
+email: jlmanzanares@colef.mx
 image: ""
 social:
 - icon: ti-facebook
@@ -8,7 +8,7 @@ social:
   link: '#'
 - icon: ti-github
   link: '#'
-title: John Doe
+title: José Luis Manzanares Rivera.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
