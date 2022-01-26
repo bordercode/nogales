@@ -1627,7 +1627,7 @@ input#e-mail,
 }
 
 .post-item .entry {
-  border: 1px solid #4e595f;
+  border: 1px solid #fff;
   margin-bottom: 30px;
 }
 
@@ -1811,7 +1811,7 @@ aside.widget {
 }
 
 .widget-content .tag {
-  background-color: #ffff;
+  background-color: #2F383D;
   color: #fff;
   display: inline-block;
   margin-bottom: 10px;
