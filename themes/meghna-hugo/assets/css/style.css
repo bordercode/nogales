@@ -1753,7 +1753,7 @@ aside.widget {
 }
 
 .tab-post-nav {
-  background-color: #ffff;
+  background-color: #4A535A;
 }
 
 .tab-post-nav li {
@@ -1811,7 +1811,7 @@ aside.widget {
 }
 
 .widget-content .tag {
-  background-color: #2F383D;
+  background-color: #ffff;
   color: #fff;
   display: inline-block;
   margin-bottom: 10px;
