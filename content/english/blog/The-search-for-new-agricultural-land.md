@@ -30,6 +30,10 @@ in the newly created Province of Manitoba in the Canadian prairie region. This p
 settlement in an area known as the West Reserve, established by Mennonite immigrants from Russia,
 is recognized as the first permanent agricultural settlement on the fertile open prairie in Western Canada (De Lisle, 1974).
 
+
+
+![image info](./static/images/blog/russia.jpg)
+
 Mennonite economic motivations represent a controversial, less documented
 aspect of the Mennonite farmer image and one, arguably with profound implications to
 understand its diaspora.
