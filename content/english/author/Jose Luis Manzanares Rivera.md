@@ -5,7 +5,7 @@ image_webp: images/blog/jl3.webp
 social:
 
 - icon: ti-twitter-alt
-  link: '#https://twitter.com/jlmanzanaresr'
+  link: 'https://twitter.com/jlmanzanaresr'
 
 title: José Luis Manzanares Rivera.
 ---
