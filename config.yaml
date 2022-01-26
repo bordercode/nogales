@@ -34,7 +34,7 @@ params:
       - link: plugins/magnific-popup/jquery.magnific-popup.min.js
       - link: plugins/lazy-load/lozad.min.js
       - link: plugins/google-map/map.js
-  post_share: yes
+  post_share: no
   preloader:
     enable: yes
     preloader: images/logo.png
