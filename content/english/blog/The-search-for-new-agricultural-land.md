@@ -14,15 +14,22 @@ The Mennonite Diaspora.
 > To approach the migration process leading to the establishment of the Chihuahua colony
 in Bolivia, it is rather important to consider some common determinants, at least from two previous stages of international Mennonite migration: from **Russia to Canada** and from **Canada to Mexico**, which led to the founding of **the Chihuahua colony in Bolivia.**
 
-This organized **4,305 miles journey** across the continent into South America started
-during **1967 and 1968** with the establishment of four settlements in the proximity of Santa Cruz City, Bolivia. These **“mother” colonies** —named Riva Palacios, Santa Rita, Sommerfeld, and Swift Current— can be considered the starting point of a massive group migration that Mennonite farmers have undertaken to open new agricultural frontiers in Bolivia.
+```
+This organized 4,305 miles journey across the continent into South América
+started
+```
+```during 1967 and 1968```
 
 
-**The Russia-Canada migration** began with the establishment of **the Chortiz colony** in **1873** in the newly created Province of Manitoba in the Canadian prairie region. This pioneer settlement in an area known as **the West Reserve**, established by Mennonite immigrants **from Russia**, is recognized as the first permanent agricultural settlement on the fertile open prairie in Western Canada (De Lisle, 1974).
+with the establishment of four settlements in the proximity of Santa Cruz City, Bolivia. These **“mother” colonies** —named Riva Palacios, Santa Rita, Sommerfeld, and Swift Current— can be considered the starting point of a massive group migration that Mennonite farmers have undertaken to open new agricultural frontiers in Bolivia.
+
+
+``` The Russia-Canada migration began with the establishment of **the Chortiz colony** in **1873** in the newly created Province of Manitoba in the Canadian prairie region. This pioneer settlement in an area known as **the West Reserve**, established by Mennonite immigrants **from Russia**, is recognized as the first permanent agricultural settlement on the fertile open prairie in Western Canada (De Lisle, 1974).```
 
 
 
-![image info](images/blog/russia.jpg)
+<img src="/static/images/blog/russia.jpg"/>
+
 
 Mennonite economic motivations represent a controversial, less documented
 aspect of the Mennonite farmer image and one, arguably with profound implications to
