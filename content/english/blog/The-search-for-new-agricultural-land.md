@@ -8,7 +8,14 @@ title: Environment as a Migration determinant
 ---
 
 The Search for New Agricultural Lands as a Determinant for International Migration:
-The Mennonite Diaspora
+The Mennonite Diaspora.
 
-> I do not know that any writer has supposed that on this earth man will ultimately be able to live without food. (Thomas Malthus, 1798/2004, p. 4)
 
+> To approach the migration process leading to the establishment of the Chihuahua colony
+in Bolivia, it is rather important to consider some common determinants, at least from two
+previous stages of international Mennonite migration: from Russia to Canada and from
+Canada to Mexico, which led to the founding of the Chihuahua colony in Bolivia.
+
+The Russia-Canada migration began with the establishment of the Chortiz colony in 1873
+in the newly created Province of Manitoba in the Canadian prairie region. This pioneer
+settlement in an area known asthe West Reserve, established by Mennonite immigrants from
