@@ -1,5 +1,5 @@
 ---
-author: José Luis Manzanares Rivera
+author: jose-luis
 date: "2022-01-24T12:52:36+06:00"
 description: This is meta description
 image: images/blog/blog-post-33.jpg
