@@ -7,7 +7,7 @@ image_webp: images/blog/blog-post-33.webp
 title: Environment as a Migration determinant 
 ---
 
-##The Search for New Agricultural Lands as a Determinant for International Migration:
+The Search for New Agricultural Lands as a Determinant for International Migration:
 The Mennonite Diaspora
 
 > I do not know that any writer has supposed that on this earth man will ultimately be able to live without food. (Thomas Malthus, 1798/2004, p. 4)
