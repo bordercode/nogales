@@ -18,7 +18,7 @@ Canada to Mexico, which led to the founding of the Chihuahua colony in Bolivia.
 
 This organized 4,305 miles journey across the continent into South America started
 during 1967 and 1968 with the establishment of four settlements in the proximity of Santa
-Cruz City, Bolivia. These “mother”2
+Cruz City, Bolivia. These “mother”
 colonies —named Riva Palacios, Santa Rita,
 Sommerfeld, and Swift Current— can be considered the starting point of a massive group
 migration that Mennonite farmers have undertaken to open new agricultural frontiers in
@@ -29,3 +29,13 @@ The Russia-Canada migration began with the establishment of the Chortiz colony i
 in the newly created Province of Manitoba in the Canadian prairie region. This pioneer
 settlement in an area known as the West Reserve, established by Mennonite immigrants from Russia,
 is recognized as the first permanent agricultural settlement on the fertile open prairie in Western Canada (De Lisle, 1974).
+
+Mennonite economic motivations represent a controversial, less documented
+aspect of the Mennonite farmer image and one, arguably with profound implications to
+understand its diaspora.
+
+After 48 years of following a closed-colony settlement pattern in the Canadian prairies,
+the Mennonite community was confronted with two key realities that ultimately led to their
+migration in 1921. On the one hand, the pressure for social integration imposed by a mainly
+Anglo-Canadian host society, particularly in the provinces of Saskatchewan and Manitoba,
+and on the other, the need for additional land to further expand their closed-settlement model.
