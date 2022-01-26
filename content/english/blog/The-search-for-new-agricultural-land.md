@@ -32,7 +32,7 @@ is recognized as the first permanent agricultural settlement on the fertile open
 
 
 
-![image info](images/russia.jpg)
+![image info](images/blog/russia.jpg)
 
 Mennonite economic motivations represent a controversial, less documented
 aspect of the Mennonite farmer image and one, arguably with profound implications to
