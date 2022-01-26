@@ -61,3 +61,5 @@ Not withstanding, Mennonite conservative leaders conducted a series of attempts 
 persuade provincial governments. However, the authorities expressed that “a country within
 a country was impossible to contemplate in Canada” (Sawatzky, 1971, p. 35).
 
+<span style="color:red"> *some emphasized markdown text*</span>.
+
