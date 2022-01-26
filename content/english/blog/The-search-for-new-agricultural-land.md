@@ -34,8 +34,11 @@ Mennonite economic motivations represent a controversial, less documented
 aspect of the Mennonite farmer image and one, arguably with profound implications to
 understand its diaspora.
 
-After 48 years of following a closed-colony settlement pattern in the Canadian prairies,
+**After 48 years of following a closed-colony settlement pattern in the Canadian prairies,**
 the Mennonite community was confronted with two key realities that ultimately led to their
 migration in 1921. On the one hand, the pressure for social integration imposed by a mainly
 Anglo-Canadian host society, particularly in the provinces of Saskatchewan and Manitoba,
 and on the other, the need for additional land to further expand their closed-settlement model.
+
+> In practice, they function as a micro-society on their
+own, isolated from the cultural customs of the host society except for commercial activity.
