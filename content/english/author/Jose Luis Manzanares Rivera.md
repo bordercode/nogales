@@ -10,4 +10,4 @@ social:
 title: José Luis Manzanares Rivera.
 ---
 
-Let´s explore. 
+Let´s explore.  Research provides a great opportunity to find out patterns, facts and to ultimately provide answers to scientific questions. Using open-source tools to analyze data extends our natural potential. Join the community.   
