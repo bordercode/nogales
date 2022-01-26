@@ -58,8 +58,7 @@ to Canada (Warkentin, 1960), adding even more pressures to their plans to expand
 model of social organization in that North American country.
 
 Not withstanding, Mennonite conservative leaders conducted a series of attempts to
-persuade provincial governments. However, the authorities expressed that “a country within
-a country was impossible to contemplate in Canada” (Sawatzky, 1971, p. 35).
+persuade provincial governments. However, the authorities expressed that “a country within a country was impossible to contemplate in Canada” (Sawatzky, 1971, p. 35).
 
-<span style="color:red"> *some emphasized markdown text*</span>.
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
