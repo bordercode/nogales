@@ -60,5 +60,5 @@ model of social organization in that North American country.
 Not withstanding, Mennonite conservative leaders conducted a series of attempts to
 persuade provincial governments. However, the authorities expressed that “a country within a country was impossible to contemplate in Canada” (Sawatzky, 1971, p. 35).
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
