@@ -51,11 +51,11 @@ Languages:
     languageName: En
     menu:
       main:
-        - name: Structure 
-          url: '#services'
-          weight: 1
-        - name: Methods
+        - name: Methods  
           url: '#about'
+          weight: 1
+        - name: Structure
+          url: '#services'
           weight: 2
         - name: Main crops
           url: '#portfolio'
