@@ -42,3 +42,18 @@ and on the other, the need for additional land to further expand their closed-se
 
 > In practice, they function as a micro-society on their
 own, isolated from the cultural customs of the host society except for commercial activity.
+
+The Canadian society perspective: 
+
+*“the loyal
+Canadian feels that the Mennonite are slackers; they will not learn English, they have a
+distinct religion and they would not assimilate with Canadians” (Friesen, 1934, p. 119).* 
+
+>In 1919, the Canadian government explicitly prohibited further migration of Mennonites
+to Canada (Warkentin, 1960), adding even more pressures to their plans to expand their
+model of social organization in that North American country.
+
+Not withstanding, Mennonite conservative leaders conducted a series of attempts to
+persuade provincial governments. However, the authorities expressed that “a country within
+a country was impossible to contemplate in Canada” (Sawatzky, 1971, p. 35).
+
