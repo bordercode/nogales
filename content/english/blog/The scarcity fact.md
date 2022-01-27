@@ -15,13 +15,13 @@ title: The scarcity fact
 
 ![](/blog/elvalle_1.jpg)
 
-```Environmental finger print```
+```Transforming arid landscapeS into fertile productive soil.```
 
 
 ![](/blog/Map2_4.jpg)
 
 ```
-Intensive use of resources towards providing food for the world
+Providing food for the world requires use of resources.  
 ```
 
 ![](/blog/Mapa_3.jpg)
