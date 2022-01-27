@@ -7,19 +7,16 @@ image_webp: images/blog/Meno.webp
 title: Historical evidence from the country within a country argument
 ---
 
-![](/blog/ManitobaFreePress2.jpg)
-
-#### A typical Gnadenbriefe example
+#### A Gnadenbriefe example
 
 ![](/blog/gnadenbriefe.jpg)
 
 
-### Local society presures 
-
-![](/blog/Judge_Myers.jpg)
-
-
 ### The school issue. 
+
+![](/blog/ManitobaFreePress2.jpg)
+
+### Local disconfort and need for additional Lands.
 
 ![](/blog/manitobafreepress1.jpg)
 
@@ -37,7 +34,7 @@ between the Mexican government and the Mennonite community in the purchase of th
 needed land. Wiebe contacted ```Arturo José Braniff```, son of Thomas Braniff, a prominent figure and member of the economic elite from the Porfirian era. Also, “historical evidence indicates that Arturo Braniff founded a company to manage and sell land with ```Federico A.Luna,``` an individual close to President Álvaro Obregón” (Collado, 2012, p. 742)
 
 
-#### Once again locals express an initial tension.
+#### Once again locals express an initial disconfort.
 
 
 >Governor […] Ignacio Enriquez does not want any more Mennonite settlers

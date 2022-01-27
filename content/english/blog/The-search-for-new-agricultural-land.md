@@ -52,7 +52,7 @@ with Canadians” (Friesen, 1934, p. 119).(see Thesis at the University of SasKa
 
 ### Local society preasures 
 
-![](/blog/Judge_Myers.jpg)
+![](/blog/Judge_Myers.png)
 
 
 >In 1919, ```the Canadian government explicitly prohibited further migration of Mennonites to Canada``` (Warkentin, 1960), adding even more pressures to their plans to expand their
