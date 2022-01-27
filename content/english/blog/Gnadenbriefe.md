@@ -2,8 +2,8 @@
 author: Jose Luis Manzanares Rivera
 date: "2022-01-23T12:52:36+06:00"
 description: 
-image: images/blog/Meno.jpg
-image_webp: images/blog/Meno.webp
+image: images/blog/casa.jpg
+image_webp: images/blog/casa.webp
 title: Historical evidence from the country within a country argument
 ---
 
@@ -37,8 +37,8 @@ needed land. Wiebe contacted ```Arturo José Braniff```, son of Thomas Braniff, 
 #### Once again locals express an initial disconfort.
 
 
->Governor […] Ignacio Enriquez does not want any more Mennonite settlers
-in the state until the land is given to the habitants of the towns since he
+>Governor […] ```Ignacio Enriquez does not want any more Mennonite settlers
+in the state``` until the land is given to the habitants of the towns since he
 considers it one-sided that foreigners are given preferential treatment, as has
 been the case so far, while Mexicans are deprived in their homeland of rights
 that citizens of other countries readily obtain. […] He added that Chihuahua
@@ -46,3 +46,18 @@ landowners have found in this procedure how to leave our compatriots
 without land by selling their latifundios in good conditions to foreigners
 (Aboites, 1995, p. 176).
 
+
+#### The integration issue. The Mexican stage.
+
+```
+...As documented by the Mexican newspaper Excélsior 
+on March 6, 1925, under the title “Coming from Canada”: 
+```
+
+>Mennonite Colonists are not considered as a good acquisition. Persons
+informed in the matter estimate that the colonization by Mennonites either is
+negative or, if not, nonetheless does not benefit the country at all. Given that
+these people live in communities absolutely isolated from the rest of the
+population, without any contact with native people, even placing between
+them and the inhabitants of the country, the unsurpassable barrier of their
+entirely exotic costumes and religion (Excélsior, 1925, p.13).
