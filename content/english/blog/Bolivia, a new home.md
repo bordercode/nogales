@@ -25,3 +25,18 @@ with the establishment of four settlements in the proximity of Santa Cruz City, 
 
 
 ![](/blog/bolivia_colonias.jpg)
+
+
+### New land, same symptoms...
+
+
+>In December of 1975, the Bolivian government signed the Supreme Act No. 13261, which
+abrogated the previous 1962 legal arrangement acquired by the Mennonites. 
+
+The 1975 Supreme Act included the following judgment:
+Considering that ```Mennonite communities’ migration to the country was authorized in conditions contrary to the National Legislation and as a flagrant
+violation of fundamental norms threatening the sovereignty principles and
+respect to our institutions […]``` The Counsel of Ministries, decree: Article 1.
+Abrogate Supreme Act 06030 of March 16, 1962 (Decreto Supremo No.
+13261, 1975, p. 1).
+
