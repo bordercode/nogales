@@ -7,4 +7,4 @@ image_webp: images/blog/bolivia1.webp
 title: Bolivia, a poor but Rich country.
 ---
 
-![](/blog/bolivia_colonias.png)
+![](/blog/bolivia_colonias.jpg)
