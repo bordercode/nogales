@@ -49,6 +49,12 @@ learn English, they have a distinct religion and they would not assimilate
 with Canadians” (Friesen, 1934, p. 119).(see Thesis at the University of SasKatchewan. Ref. to Education.)
 ```
 
+
+### Local society preasures 
+
+![](/blog/Judge_Myers.jpg)
+
+
 >In 1919, ```the Canadian government explicitly prohibited further migration of Mennonites to Canada``` (Warkentin, 1960), adding even more pressures to their plans to expand their
 model of social organization in that North American country.
 
