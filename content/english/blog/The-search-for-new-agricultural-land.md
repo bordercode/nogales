@@ -18,28 +18,24 @@ This organized 4,305 miles journey across the continent into South América
 started during 1967 and 1968.
 ```
 
-with the establishment of four settlements in the proximity of Santa Cruz City, Bolivia. These ```"mother” colonies``` —named Riva Palacios, Santa Rita, Sommerfeld, and Swift Current— can be considered the starting point of a massive group migration that Mennonite farmers have undertaken to open new agricultural frontiers in Bolivia.
+with the establishment of four settlements in the proximity of Santa Cruz City, Bolivia. These ```"mother” colonies``` —named Riva Palacios, Santa Rita, Sommerfeld, and Swift Current— can be considered the starting point of ```a massive group migration``` that Mennonite farmers have undertaken to open ```new agricultural frontiers in Bolivia.```
 
 
 ``` The Russia-Canada migration ```
 began with the establishment of ```the Chortiz colony``` in ```1873``` in the newly created Province of Manitoba in the Canadian prairie region. This pioneer settlement in an area known as ```the West Reserve```, established by Mennonite immigrants ```from Russia```, is recognized as the first permanent agricultural settlement on the fertile open prairie in Western Canada (De Lisle, 1974).
 
 
-![](russia.jpg)
+
+![](/blog/russia.jpg)
 
 
-
-
-Mennonite economic motivations represent a controversial, less documented
-aspect of the Mennonite farmer image and one, arguably with profound implications to
-understand its diaspora.
 
 ```
 After 48 years of following a closed-colony settlement pattern
 ```
 in the Canadian prairies, the Mennonite community was confronted with two key realities that ultimately led to their
-migration in ```1921```. On the one hand, the pressure for social integration imposed by a mainly
-Anglo-Canadian host society, particularly in the provinces of ```Saskatchewan and Manitoba,```
+migration in ```1921```. On the one hand, ```the pressure for social integration``` imposed by a mainly
+```Anglo-Canadian host society```, particularly in the provinces of ```Saskatchewan and Manitoba,```
 and on the other, ```the need for additional land to further expand their closed-settlement model.```
 
 > In practice, they function as a micro-society on their
@@ -50,7 +46,7 @@ The Canadian society perspective:
 ```
 "The loyal Canadian feels that the Mennonite are slackers; they will not 
 learn English, they have a distinct religion and they would not assimilate 
-with Canadians” (Friesen, 1934, p. 119).
+with Canadians” (Friesen, 1934, p. 119).(see Thesis at the University of SasKatchewan. Ref. to Education.)
 ```
 
 >In 1919, ```the Canadian government explicitly prohibited further migration of Mennonites to Canada``` (Warkentin, 1960), adding even more pressures to their plans to expand their
@@ -59,5 +55,8 @@ model of social organization in that North American country.
 Not withstanding, Mennonite conservative leaders conducted a series of attempts to
 persuade provincial governments. ```However, the authorities expressed that “a country within a country was impossible to contemplate in Canada”``` (Sawatzky, 1971, p. 35).
 
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
-
+```toml
+Mennonite economic motivations represent a controversial, less documented
+aspect of the Mennonite farmer image and one, arguably with profound implications to
+understand its diaspora.
+```
