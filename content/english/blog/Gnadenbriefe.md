@@ -8,9 +8,10 @@ title: Historical evidence from the country within a country argument
 ---
 
 
-![](/blog/gnadenbriefe.jpg)
 
 ![](/blog/manitobafreepress1.jpg)
+
+![](/blog/gnadenbriefe.jpg)
 
 ![](/blog/ManitobaFreePress2.jpg)
 
