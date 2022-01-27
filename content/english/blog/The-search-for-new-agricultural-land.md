@@ -2,8 +2,8 @@
 author: Jose Luis Manzanares Rivera
 date: "2022-01-24T12:52:36+06:00"
 description: This is meta description
-image: images/blog/blog-post-33.jpg
-image_webp: images/blog/blog-post-33.webp
+image: images/blog/women_chores.jpg
+image_webp: images/blog/women_chores.webp
 title: Environment as a Migration determinant
 ---
 

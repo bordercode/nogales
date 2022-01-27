@@ -1,18 +1,22 @@
 ---
-author: John Doe
-date: "2018-09-12T12:52:36+06:00"
-description: This is meta description
-image: images/blog/blog-post-1.jpg
-image_webp: images/blog/blog-post-1.webp
-title: Simple Blog Post
+author: Jose Luis Manzanares Rivera
+date: "2022-01-22T12:52:36+06:00"
+description:
+image: images/blog/Meno.jpg
+image_webp: images/blog/Meno.webp
+title: Four Stage Mennonite Migration model
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+## Four-Stage Mennonite Migration Model” (FSMM).
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+```A recurring model for the creation of new rural communities.```
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+The Model consistently involved a four-stage cycle. 
+
+>First, a pioneer stage of ```colony integration```, followed by the second stage of ```economic activity 
+consolidation``` tailored to the local and regional market conditions. Then, the third stage of 
+```colony growth``` unfolded in parallel with an intensive use of resources. ```A fourth expansion 
+stage``` was characterized by the search for additional suitable land for the next 
+Auswanderung.
