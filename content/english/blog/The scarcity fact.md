@@ -11,8 +11,17 @@ title: The scarcity fact
 
 ![](/blog/colonias_3.png)
 
+>Underground water extraction to farm in the desert Chihuahua plains.
+
 ![](/blog/elvalle_1.jpg)
 
+```Environmental finger print```
+
+
 ![](/blog/Map2_4.jpg)
+
+```
+Intensive use of resources towards providing food for the world
+```
 
 ![](/blog/Mapa_3.jpg)
