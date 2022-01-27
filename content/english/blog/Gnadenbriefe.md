@@ -13,9 +13,16 @@ title: Historical evidence from the country within a country argument
 
 ![](/blog/gnadenbriefe.jpg)
 
+
+### Local society presures 
+
+![](/blog/Judge_Myers.jpg)
+
+
 ### The school issue. 
 
 ![](/blog/manitobafreepress1.jpg)
+
 
 
 ```
