@@ -14,6 +14,12 @@ title: Historical evidence from the country within a country argument
 
 ### The school issue. 
 
+```
+Basic education and biblical values.
+```
+
+![](/blog/school.jpg)
+
 ![](/blog/ManitobaFreePress2.jpg)
 
 ### Local disconfort and need for additional Lands.
