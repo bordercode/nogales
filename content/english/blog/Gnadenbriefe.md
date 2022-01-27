@@ -9,6 +9,8 @@ title: Historical evidence from the country within a country argument
 
 ![](/blog/ManitobaFreePress2.jpg)
 
+#### A typical Gnadenbriefe example
+
 ![](/blog/gnadenbriefe.jpg)
 
 ### The school issue. 
