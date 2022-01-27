@@ -21,7 +21,7 @@ title: The scarcity fact
 ![](/blog/Map2_4.jpg)
 
 ```
-Providing food for the world requires use of resources.  
+Providing food for the world requires use of resources. 
 ```
 
 ![](/blog/Mapa_3.jpg)
