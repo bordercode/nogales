@@ -10,7 +10,8 @@ title: Bolivia, a poor but Rich country.
 #### Again... After 46 years in Mexico. 
 
 ```
-A new generation of mennonites searching for land, direct their migration efforts to find a new home. 
+A new generation of mennonites searching for land, 
+directed their migration efforts to find a new home. 
 This time, towards Bolivia, a rich in arable land contry. 
 ```
 
