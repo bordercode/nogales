@@ -4,7 +4,7 @@ date: "2022-01-19T12:52:36+06:00"
 description: This is meta description
 image: images/blog/background.jpg
 image_webp: images/blog/background.webp
-title: A way of life rooted in the soil.. keeps moving on.
+title: A way of life rooted in the soil... keeps moving on.
 ---
 
 ## Concluding remarks.
