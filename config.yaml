@@ -1,4 +1,4 @@
-baseURL: https://themennonitehistoryproject.netlify.app
+baseURL: https://mennonitehistory-project.netlify.app
 title: MHP
 theme: meghna-hugo
 paginate: '6'
